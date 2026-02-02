@@ -30,5 +30,5 @@ This site showcases my end-to-end analytics projects.
 ---
 
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/anthonyfdesimone/
+- LinkedIn: [https://www.linkedin.com/in/anthonyfdesimone/](https://www.linkedin.com/in/anthonyfdesimone/)
 - GitHub: [https://github.com/anthonyfdesimone](https://github.com/afdesimone)
