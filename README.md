@@ -1,14 +1,18 @@
 # Anthony Desimone  
-**Junior Data Analyst | SQL · Power BI · Excel**
+**Junior Data Analyst | SQL · Power BI · Excel · R**
 
 I am a senior at the University of South Florida with a quantitative background in chemistry and economics, focused on data analytics and business intelligence.  
+
+- LinkedIn: [https://www.linkedin.com/in/anthonyfdesimone/](https://www.linkedin.com/in/anthonyfdesimone/)
+- GitHub: [https://github.com/anthonyfdesimone](https://github.com/afdesimone)
+
 This site showcases my end-to-end analytics projects.
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🚚 Logistics Operations Analytics (SQL + Power BI)
+### Logistics Operations Analytics (SQL + Power BI)
 ![Fleet Overview](images/fleet_overview.png)
 
 **Tools:** SQL, Power BI, Data Modeling  
@@ -20,15 +24,11 @@ This site showcases my end-to-end analytics projects.
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 - SQL (CTEs, views, schema design)
 - Power BI (data modeling, dashboards)
 - Excel (data analysis)
 - Python (introductory)
-- R (introductory econometrics)
+- R (econometrics)
 
 ---
-
-## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/anthonyfdesimone/](https://www.linkedin.com/in/anthonyfdesimone/)
-- GitHub: [https://github.com/anthonyfdesimone](https://github.com/afdesimone)
