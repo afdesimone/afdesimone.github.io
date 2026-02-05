@@ -3,8 +3,8 @@
 
 I am a senior at the University of South Florida with a quantitative background in chemistry and economics, focused on applying data analysis to operational and business decision-making.
 
-- LinkedIn: https://www.linkedin.com/in/anthonyfdesimone/
-- GitHub: https://github.com/afdesimone
+- LinkedIn: [https://www.linkedin.com/in/anthonyfdesimone/](https://www.linkedin.com/in/anthonyfdesimone/)
+- GitHub: [https://github.com/afdesimone](https://github.com/afdesimone)
 
 This portfolio highlights analytics projects centered on evaluating business assumptions, interpreting results, and supporting data-driven decisions.
 
@@ -36,7 +36,7 @@ Operations teams often assume that individual driver performance materially affe
 - Analyzed driver and fleet-level performance trends using SQL  
 - Developed interactive Power BI dashboards to support fleet-level monitoring and decision-making  
 
-View GitHub Repository: https://github.com/afdesimone/logistics-operations-analytics
+View GitHub Repository: [https://github.com/afdesimone/logistics-operations-analytics](https://github.com/afdesimone/logistics-operations-analytics)
 
 ---
 
